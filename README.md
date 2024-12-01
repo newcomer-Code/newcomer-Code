@@ -1,5 +1,4 @@
 👋 Hi, I’m @newcomer-Code
-👀 I’m interested in ...
 🌱 I’m currently learning C/C#/HTML/JavaScprit/Python
 
 This is a Open-Source Project for macOS.We want eveyone can use macOS.
